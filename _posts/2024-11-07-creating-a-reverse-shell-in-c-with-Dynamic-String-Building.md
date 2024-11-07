@@ -115,5 +115,3 @@ int main() {
 2. **Using Patterns for Custom IP and Command**: You can easily replace `ip_pattern` and `cmd_pattern` with your own ASCII values for different IPs and commands.
 
 3. **Indefinite Session Hold**: The `WaitForSingleObject` function waits for the shell session to remain open indefinitely, allowing full control over the session.
-
-This code structure provides an effective way to obfuscate critical strings and can be extended for further customization. Be sure to use these techniques responsibly and only in authorized environments!
